@@ -129,7 +129,9 @@
       ]
     },
     "created_at": "2025-05-09T19:07:18.972Z",
-    "updated_at": "2025-05-09T19:18:27.518Z"
+    "updated_at": "2025-05-09T19:18:27.518Z",
+    "is_private": false,
+    "generate_pages_site": true
   },
   "annotations": {},
   "events": {},
